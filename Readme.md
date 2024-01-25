@@ -112,9 +112,9 @@ Make sure to adjust according to the tools you use for serving local files.
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github/camilarozendo/pucminas.exercicio2.node/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github/camilarozendo/pucminas.exercicio2.node/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github/camilarozendo/pucminas.exercicio2.node/issues)**: Submit bugs found or log feature requests for Pucminas.exercicio2.node.
+- **[Submit Pull Requests](https://github/camilarozendo/mobile-first/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github/camilarozendo/mobile-first/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github/camilarozendo/mobile-first/issues)**: Submit bugs found or log feature requests for mobile-first.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
