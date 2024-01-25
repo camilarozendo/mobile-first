@@ -5,7 +5,7 @@
     <h1 align="center">MOBILE-FIRST</h1>
 </p>
 <p align="center">
-    <em>Exercício para a disciplina de Técnicas Avançadas de CSS do curso de Desenvolvimento Web Front-End - PUC Minas</em>
+    <em>Exercício Mobile-First Responsive Build (with CSS Grid) para a disciplina de Técnicas Avançadas de CSS do curso de Desenvolvimento Web Front-End - PUC Minas</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/camilarozendo/mobile-first?style=default&color=0080ff" alt="license">
@@ -33,7 +33,7 @@
 
 ## 📍 Overview
 
-O projeto Cosmo Junkie simula um portfolio construído apenas com CSS e tem o objetivo de praticar a estratégia "mobile first".
+O projeto Cosmo Junkie simula um portfolio construído apenas com CSS e tem o objetivo de praticar a estratégia "mobile first". 
 
 ---
 
